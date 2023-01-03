@@ -4,7 +4,7 @@
 
 <div id="header" align="center">
    <img src="https://komarev.com/ghpvc/?username=thedigitalchief&style=flat-square&color=blue" alt=""/><br>
-   <a href="https://www.linkedin.com/in/dylanhnguyen/" title="LinkedIn">
+   <a href="https://www.linkedin.com/in/parsa/" title="LinkedIn">
   <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />
 </a>
 <a href="https://github.com/thedigitalchief" title="GitHub ">
@@ -14,7 +14,7 @@
   <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/5969/5969113.png" />
 </a>
 
-   <a href="https://www.facebook.com/dylannguyenn" title="Facebook Account">
+   <a href="https://www.facebook.com/parsa" title="Facebook Account">
   <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" />
 </a>
 
